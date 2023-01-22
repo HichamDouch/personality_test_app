@@ -33,7 +33,7 @@ or
 # run project
 npm run dev
 ```
-after run the JSON Server to run mock api watcher by
+after run the JSON Server for mock api watcher by
 ```bash
 # with yarn
 yarn jsonServer
