@@ -22,7 +22,7 @@ npm  install
 
 
 ## Usage
-after all packages are installed you can start the project by those commands
+after all packages are installed you can start the project by :
 
 ```bash
 # run project
@@ -33,7 +33,7 @@ or
 # run project
 npm run dev
 ```
-after run the JSON Server for mock api watcher by
+after run the JSON Server for mock api watcher with : 
 ```bash
 # with yarn
 yarn jsonServer
