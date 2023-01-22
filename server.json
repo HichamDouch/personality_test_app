@@ -1,0 +1,159 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "You’re really busy at work and a colleague is telling you their life story and personal woes. You:",
+      "answer": 0,
+      "options": [
+        {
+          "id": 0,
+          "text": "Don’t dare to interrupt them",
+          "introvert" : 20,
+          "extrovert" : 5
+        },
+        {
+          "id": 1,
+          "text": "Think it’s more important to give them some of your time; work can wait",
+          "introvert" : 5,
+          "extrovert" : 10
+        },
+        {
+          "id": 2,
+          "text": "Listen, but with only with half an ear",
+          "introvert" : 10,
+          "extrovert" : 5
+        },
+        {
+          "id": 3,
+          "text": "Interrupt and explain that you are really busy at the moment",
+          "introvert" : 5,
+          "extrovert" : 20
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
+      "answer": 2,
+      "options": [
+        {
+          "id": 4,
+          "text": "Look at your watch every two minutes",
+          "introvert" : 20,
+          "extrovert" : 5
+        },
+        {
+          "id": 5,
+          "text": "Bubble with inner anger, but keep quiet",
+          "introvert" : 20,
+          "extrovert" : 5
+        },
+        {
+          "id": 6,
+          "text": "Explain to other equally impatient people in the room that the doctor is always running late",
+          "introvert" : 0,
+          "extrovert" : 20
+        },
+        {
+          "id": 7,
+          "text": "Complain in a loud voice, while tapping your foot impatiently",
+          "introvert" : 0,
+          "extrovert" : 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "You’re having an animated discussion with a collea…egarding a project that you’re in charge of. You:",
+      "answer": 0,
+      "options": [
+        {
+          "id": 8,
+          "text": "Don’t dare contradict them",
+          "introvert" : 20,
+          "extrovert" : 0
+        },
+        {
+          "id": 9,
+          "text": "Think that they are obviously right",
+          "introvert" : 20,
+          "extrovert" : 10
+        },
+        {
+          "id": 10,
+          "text": "Defend your own point of view, tooth and nail",
+          "introvert" : 0,
+          "extrovert" : 20
+        },
+        {
+          "id": 11,
+          "text": "Continuously interrupt your colleague",
+          "introvert" : 0,
+          "extrovert" : 10
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "You are taking part in a guided tour of a museum. You:",
+      "answer": 0,
+      "options": [
+        {
+          "id": 12,
+          "text": "Are a bit too far towards the back so don’t really hear what the guide is saying",
+          "introvert" : 20,
+          "extrovert" : 0
+        },
+        {
+          "id": 13,
+          "text": "Follow the group without question",
+          "introvert" : 20,
+          "extrovert" : 0
+        },
+        {
+          "id": 14,
+          "text": "Make sure that everyone is able to hear properly",
+          "introvert" : 0,
+          "extrovert" : 20
+        },
+        {
+          "id": 15,
+          "text": "Are right up the front, adding your own comments in a loud voice",
+          "introvert" : 0,
+          "extrovert" : 20
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "During dinner parties at your home, you have a hard time with people who:",
+      "answer": 0,
+      "options": [
+        {
+          "id": 16,
+          "text": "Ask you to tell a story in front of everyone else",
+          "introvert" : 0,
+          "extrovert" : 10
+        },
+        {
+          "id": 17,
+          "text": "Talk privately between themselves",
+          "introvert" : 20,
+          "extrovert" : 0
+        },
+        {
+          "id": 18,
+          "text": "Hang around you all evening",
+          "introvert" : 10,
+          "extrovert" : 10
+        },
+        {
+          "id": 19,
+          "text": "Always drag the conversation back to themselves",
+          "introvert" : 10,
+          "extrovert" : 20
+        }
+      ]
+    }
+  ]
+}

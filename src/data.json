@@ -1,0 +1,115 @@
+[
+    {
+        question: "You’re really busy at work and a colleague is telling you their life story and personal woes. You:"
+        answer: 0,
+        options : [
+            {
+                id: 0, 
+                option: "Don’t dare to interrupt them"
+            },
+            {
+                id: 1, 
+                option: "Think it’s more important to give them some of your time; work can wait"
+            },
+            {
+                id: 2, 
+                option: "Listen, but with only with half an ear"
+            },
+            {
+                id: 3, 
+                option: "Interrupt and explain that you are really busy at the moment"
+            }
+        ]
+    }
+    {
+        question: "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:"
+        answer: 2,
+        options : [
+            {
+                id: 4, 
+                option: "Look at your watch every two minutes"
+            },
+            {
+                id: 5, 
+                option: "Bubble with inner anger, but keep quiet"
+            },
+            {
+                id: 6, 
+                option: "Explain to other equally impatient people in the room that the doctor is always running late"
+            },
+            {
+                id: 7, 
+                option: "Complain in a loud voice, while tapping your foot impatiently"
+            }
+        ]
+    }
+    
+    {
+        question: "You’re having an animated discussion with a collea…egarding a project that you’re in charge of. You:"
+        answer: 0,
+         options : [
+            {
+                id: 8, 
+                option: "Don’t dare contradict them"
+            },
+            {
+                id: 9, 
+                option: "Think that they are obviously right"
+            },
+            {
+                id: 10, 
+                option: "Defend your own point of view, tooth and nail"
+            },
+            {
+                id: 11, 
+                option: "Continuously interrupt your colleague"
+            }
+        ]
+    }
+    
+    {
+        question: "You are taking part in a guided tour of a museum. You:"
+        answer: 0,
+         options : [
+            {
+                id: 12, 
+                option: "Are a bit too far towards the back so don’t really hear what the guide is saying"
+            },
+            {
+                id: 13, 
+                option: "Follow the group without question"
+            },
+            {
+                id: 14, 
+                option: "Make sure that everyone is able to hear properly"
+            },
+            {
+                id: 15, 
+                option: "Are right up the front, adding your own comments in a loud voice"
+            }
+        ]
+    }
+    
+    {
+        question: "During dinner parties at your home, you have a hard time with people who:"
+        answer: 0,
+         options : [
+            {
+                id: 16, 
+                option: "Ask you to tell a story in front of everyone else"
+            },
+            {
+                id: 17, 
+                option: "Talk privately between themselves"
+            },
+            {
+                id: 18, 
+                option: "Hang around you all evening"
+            },
+            {
+                id: 19, 
+                option: "Always drag the conversation back to themselves"
+            }
+        ]
+    }
+]
