@@ -5,3 +5,45 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+
+
+## Installation
+
+Use the package manager yarn or npm to install the dependencies.
+
+```bash
+yarn install 
+```
+or
+```bash
+npm  install 
+```
+
+
+## Usage
+after all packages are installed you can start the project by those commands
+
+```bash
+# run project
+yarn dev
+```
+or
+```bash
+# run project
+npm run dev
+```
+after run the JSON Server to run mock api watcher by
+```bash
+# with yarn
+yarn jsonServer
+```
+or 
+```bash
+# with npm
+npm run jsonServer
+```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
